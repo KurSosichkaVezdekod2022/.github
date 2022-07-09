@@ -1,11 +1,11 @@
 # КАТЕГОРИИ
-- Gamedev
-- Go
+- Gamedev (Alex, Ars)
+- Go (Alex)
 - ML
-- Mobile
-- Tarantool
-- VK Mini Apps
+- Mobile (Alex)
+- Tarantool (Masha)
+- VK Mini Apps (Masha)
 - VK Видео и VK Звонки
-- Web
-- Design
-- Маруся
+- Web 
+- Design (Masha)
+- Маруся (Ars)
