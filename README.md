@@ -1,0 +1,11 @@
+# КАТЕГОРИИ
+- Gamedev
+- Go
+- ML
+- Mobile
+- Tarantool
+- VK Mini Apps
+- VK Видео и VK Звонки
+- Web
+- Design
+- Маруся
