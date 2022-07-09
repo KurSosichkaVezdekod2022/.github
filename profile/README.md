@@ -1,7 +1,7 @@
 # КАТЕГОРИИ
 - Gamedev (Alex, Ars)
-- Go (Alex)
-- ML
+- Go (Anton, ...)
+- ML (Anton)
 - Mobile (Alex)
 - Tarantool (Masha)
 - VK Mini Apps (Masha)
